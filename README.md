@@ -21,11 +21,10 @@ th app will notify the family memeber which will be added by the user. this feat
 --
 --   - <img src="Prototype/Spending – 6.png" width="350">    --      <img src="Prototype/Spending – 7.png" width="350">  
                                           
+------------
 
 
-
-####  [Link to Java_Doc](http://users.metropolia.fi/~beselama/callmemoJ_DOC/index.html)
+####  [Link to the resposive layout at adobe   ](https://xd.adobe.com/view/9257ab8e-0f3f-4a26-4e79-f13fa179e934-e466/)
 
 ---
 
-####  [Download the app from playstore](https://play.google.com/store/apps/details?id=com.callmemonew.gbese.callmemo&hl=en)
