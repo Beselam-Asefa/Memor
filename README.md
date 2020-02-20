@@ -1,4 +1,4 @@
-  # Memor   - React-Native App                                                      <img src="Images/logo.png" width="100">
+  # Memor   - React-Native App                                        
  
 ------
 - I am building this app and this is just the prototype of the app which i have done on Adobe XD
@@ -24,7 +24,7 @@ th app will notify the family memeber which will be added by the user. this feat
 ------------
 
 
-####  [Link to the resposive layout at adobe   ](https://xd.adobe.com/view/9257ab8e-0f3f-4a26-4e79-f13fa179e934-e466/)
+####  [Check the resposive layout at adobe using this link  ](https://xd.adobe.com/view/9257ab8e-0f3f-4a26-4e79-f13fa179e934-e466/)
 
 ---
 
