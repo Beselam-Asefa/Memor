@@ -13,7 +13,7 @@ th app will notify the family memeber which will be added by the user. this feat
 
  
  
- <img src="Prototype/iPhone X-XS – 4.png">          <img src="Prototype/iPhone X-XS – 5.png" width="350">                                  
+ <img src="Prototype/iPhone X-XS – 4.png" width="350">          <img src="Prototype/iPhone X-XS – 5.png" width="350">                                  
                                           
 
 
